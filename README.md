@@ -1,6 +1,5 @@
-# 💫 About Me:
-I am student<br>
-I am currently learning python
+# 💫 About Me
+1st Year Engineering Student | AI & DSA Enthusiast | Building real-world projects 🚀
 
 
 ## 🌐 Socials:
