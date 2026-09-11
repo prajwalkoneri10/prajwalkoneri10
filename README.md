@@ -1,5 +1,5 @@
 # 💫 About Me
-1st Year Engineering Student | AI & DSA Enthusiast | Building real-world projects 🚀
+2nd Year Engineering Student | AI & DSA Enthusiast | Building real-world projects 🚀
 
 
 ## 🌐 Socials:
